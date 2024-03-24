@@ -1,0 +1,13 @@
+package org.example.wygotest;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WygotestApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
